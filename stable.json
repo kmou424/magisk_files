@@ -2,7 +2,7 @@
   "app": {
     "version": "7.5.1-GearMagic",
     "versionCode": "267",
-    "link": "https://github.com/kmou424/magisk_files/releases/download/manager-v7.5.1/MagiskManager-v7.5.1-GearMagic.apk",
+    "link": "https://raw.githubusercontent.com/kmou424/magisk_files/master/releases/download/manager-v7.5.1/MagiskManager-v7.5.1-GearMagic.apk",
     "note": "https://raw.githubusercontent.com/kmou424/magisk_files/master/releases/download/manager-v7.5.1/changelog.md"
   },
   "uninstaller": {
@@ -11,7 +11,7 @@
   "magisk": {
     "version": "20.1-GearMagic",
     "versionCode": "20100",
-    "link": "https://github.com/kmou424/magisk_files/releases/download/v20.1/Magisk-v20.1-GearMagic.zip",
+    "link": "https://raw.githubusercontent.com/kmou424/magisk_files/master/releases/download/v20.1/Magisk-v20.1-GearMagic.zip",
     "note": "https://raw.githubusercontent.com/kmou424/magisk_files/master/notes.md",
     "md5": "656aa6ec2ce88c840057b8a7e6cba9a2"
   },
